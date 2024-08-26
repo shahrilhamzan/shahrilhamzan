@@ -13,12 +13,11 @@
    02.  The Truth Artist Looks at Perfection<br> 
         The Imposter One Looks at Hurry.</p>  
 
- ---My-Achievement---
- ![certificate](https://www.credly.com/badges/f4a231a9-a6fd-4a3f-b3bd-e961a7cff7da/embedded)
-
-                              ---My-Skills---
-                    HTML5 CSS3 JAVASCRIPT JQUERY SASS
-               BOOTSTRAP REACT.JS ANGULAR.TS LARAVEL REDUX
-                   TYPESCRIPT BEM CSS FLEXBOX CSS GRID
-               PHP NODE.JS EXPRESS.JS UBUNTU MYSQL MONGODB
-               PHOTOSHOP FIGMA GITHUB ADOBE XD UX DESIGN
+ ---My-Achievement---<br>
+ ![certificate](https://www.credly.com/badges/f4a231a9-a6fd-4a3f-b3bd-e961a7cff7da/public_url)<br>
+                               ---My-Skills---<br>
+![My Skills_1](https://skillicons.dev/icons?i=html,css,js,jquery,sass)<br>
+![My Skills_2](https://skillicons.dev/icons?i=bootstrap,react,angular,laravel,redux)<br>
+![My Skills_3](https://skillicons.dev/icons?i=typescript,php,nodejs,expressjs,ubuntu,mysql,mongodb)<br>
+![My Skills_2](https://skillicons.dev/icons?i=photoshop,figma,github,adobexd,xd)<br>
+                            
