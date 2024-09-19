@@ -1,4 +1,3 @@
-
 <div align="center">
   <pre style="font-family: monospace;">
 .-----------------------------------------------------------------.
@@ -11,7 +10,6 @@
 '-----------------------------------------------------------------'
   </pre>
 </div>
-
 
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" />
@@ -34,31 +32,26 @@ The Imposter One Looks at Hurry.</p>
 
 <h3 align="center">#My Achievement</h3>
 <div align="center">
+  <a href="https://www.credly.com/badges/f4a231a9-a6fd-4a3f-b3bd-e961a7cff7da/public_url">
   <img src="meta-front-end-developer-certificate.png" alt="Certificate" style="height: 100px; width:100px;"/>
+  </a>
 </div>
 
 <h3 align="center">#My Skills</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,angular,laravel,redux" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,php,nodejs,expressjs,ubuntu,mysql,mongodb" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=photoshop,figma,github,xd" />
-  </a>
-</p>
+<div align="center">
+	<table>
+		<tr align="center">
+			<td><code><img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,sass" /></code></td>
+		</tr>
+    <tr align="center">
+			<td><code> <img src="https://skillicons.dev/icons?i=react,angular,laravel,redux" /></code></td>
+		</tr>
+     <tr align="center">
+			<td><code> <img src="https://skillicons.dev/icons?i=js,php,typescript,nodejs,expressjs,ubuntu,mysql,mongodb" /></code></td>
+		</tr>
+    <tr align="center">
+			<td><code> <img src="https://skillicons.dev/icons?i=photoshop,figma,github,xd" /></code></td>
+		</tr>
+	</table>
+</div>
