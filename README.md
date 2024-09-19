@@ -12,7 +12,11 @@
   </pre>
 </div>
 
-<h1 align="center">Hi, I'm Shahril-Hamzan, from Malaysia.</h1>
+
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" />
+Hi, I'm Shahril-Hamzan, from Malaysia.
+</h1>
 
 <p align="center">The full-stack developer, designer and observer.<br>
 Goes beyond another world and dives into imagination but not delusional.<br>
@@ -35,8 +39,26 @@ The Imposter One Looks at Hurry.</p>
 
 <h3 align="center">#My Skills</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass" />
+  </a>
+</p>
 
-![My Skills_1](https://skillicons.dev/icons?i=html,css,js,jquery,sass)
-![My Skills_2](https://skillicons.dev/icons?i=bootstrap,react,angular,laravel,redux)
-![My Skills_3](https://skillicons.dev/icons?i=typescript,php,nodejs,expressjs,ubuntu,mysql,mongodb)
-![My Skills_2](https://skillicons.dev/icons?i=photoshop,figma,github,xd)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,angular,laravel,redux" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,php,nodejs,expressjs,ubuntu,mysql,mongodb" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=photoshop,figma,github,xd" />
+  </a>
+</p>
