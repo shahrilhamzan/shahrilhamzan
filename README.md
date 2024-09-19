@@ -1,3 +1,4 @@
+<p  align="center">Ethnicity: Malay mixed with Thai, Chinese, and Indonesian, but not Indian.</p>
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" />
 Hi, I'm Shahril-Hamzan, from Malaysia.
