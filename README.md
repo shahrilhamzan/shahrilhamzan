@@ -1,16 +1,3 @@
-<div align="center">
-  <pre style="font-family: monospace;">
-.-----------------------------------------------------------------.
-|       _   _      _ _        __        __         _     _ _      |
-|      | | | | ___| | | ___   \ \      / /__  _ __| | __| | |     |
-|      | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |     |
-|      |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|     |
-|      |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)     |
-|                                                                 |
-'-----------------------------------------------------------------'
-  </pre>
-</div>
-
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" />
 Hi, I'm Shahril-Hamzan, from Malaysia.
@@ -23,7 +10,6 @@ I have an introvert syndrome spectrum :P
 </p>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Clapping Hands Medium-Light Skin Tone" width="25" height="25" />
 I hold into this self-quote
 </h3>
 
@@ -40,7 +26,6 @@ The Imposter One Looks at Hurry.
 </p>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Mage.png" alt="Man Mage" width="25" height="25" />	
 My Achievement
 </h3>
 
@@ -51,7 +36,6 @@ My Achievement
 </div>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium-Light%20Skin%20Tone.png" alt="Sign of the Horns Medium-Light Skin Tone" width="25" height="25" />
 My Skills
 </h3>
 
