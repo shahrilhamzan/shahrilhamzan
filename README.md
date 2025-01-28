@@ -5,9 +5,10 @@ Hi, I'm Shahril Hamzan, from Malaysia.
 </h1>
 
 <p align="center">The full-stack developer, designer and observer.<br>
-Goes beyond another world and dives into imagination but not delusional.<br>
+Goes beyond others, dives
+into imagination but never delusional.<br>
 Me, the man who runs to the corner of the room when people get crowded.<br>
-I have an introvert syndrome spectrum :P
+I'm messing with introvert issues, duh!
 </p>
 
 <h3 align="center">
